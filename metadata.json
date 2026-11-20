@@ -1,0 +1,6 @@
+{
+  "name": "IoT-Shield XAI: Lightweight & Explainable IoT Botnet Detection on IoT-23",
+  "description": "Interactive IEEE research visualization exploring lightweight IoT botnet detection on IoT-23, comparing tree ensembles and a Compact MLP with SHAP-guided feature reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
