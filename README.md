@@ -1,5 +1,6 @@
 # IoT-Shield XAI: Interactive Botnet Detection Research Visualizer
 
+[![Live Interactive Dashboard](https://img.shields.io/badge/Live_Demo-IoT--Shield_XAI-00809D?style=for-the-badge&logo=vercel)](https://iot-shield-visualizer.vercel.app)
 An interactive web application built to visually communicate the experimental workflow, empirical benchmarks, SHAP feature attributions, and methodological audit from our IEEE research paper:  
 **"Lightweight and Explainable IoT Botnet Detection on IoT-23: An Empirical Comparison of Tree Ensembles and a Compact MLP with SHAP-Guided Feature Reduction."**
 
